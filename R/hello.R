@@ -8,9 +8,9 @@ digitos2 <- function(Numero_3_digitos){
     s <- dig1+dig2+dig3
     print("LA SUMA DE LOS DIGITOS ES :")
     print(s)
-    else{
+    }else{
       print("no es un numero de 3 digitos ")
     }
 
   }
-}
+
